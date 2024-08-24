@@ -1,0 +1,27 @@
+.containerB {
+  background-color: #ffffffd3;
+  width: 100%;
+  display: flex;
+}
+.imagenB {
+  width: 40%;
+  display: flex;
+  margin: 2%;
+}
+.lista {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: #333;
+  text-align: left;
+  margin-top: 5%;
+}
+
+.lista li {
+  margin-bottom: 10px;
+  font-family: "Times New Roman", Times, serif;
+}
+.parrafoB {
+  display: flex;
+  text-align: left;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}

@@ -1,0 +1,23 @@
+.containerFooter {
+  display: flex;
+  justify-content: space-around;
+  background-color: transparent;
+  margin-top: 5%;
+}
+.referencias {
+  display: flex;
+  text-align: left;
+  font-family: "Times New Roman", Times, serif;
+}
+.listaFooter {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: #ffffff;
+  text-align: left;
+  margin-top: 2%;
+}
+
+.listaFooter li {
+  margin-bottom: 10px;
+  font-family: "Times New Roman", Times, serif;
+}
